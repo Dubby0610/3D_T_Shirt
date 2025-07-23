@@ -69,6 +69,3 @@ Set your own images by changing the public images with the same name.
 - Default logo: public/logo.png
 - Default texture: public/full.jpg
 
-##
-
-[![](https://i.postimg.cc/pTq6WPjr/card.png)](https://github.com/AriyanMLZM)
